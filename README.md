@@ -1,5 +1,6 @@
 # hello-world
 Intro to Github
 
-I'm just a Korean Crip and I'm here to gangbang on the entire world. 
-Oh, I guess I clicked enter after the previous line. This is a new commit. Now the commit button is green and I can click it.
+My conviction towards my goals, my life purpose, my destiny will never waver. 
+I was born to lead a nation and I will do whatever it takes to fulfill my destiny.
+I am going the distance.
